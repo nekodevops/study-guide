@@ -48,3 +48,5 @@ TopCoder (incluye relaciones de recurrencia y teorema maestro):
 [Multi-Dim Array](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
 
 [Jagged Arrays](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+
+## Stack
